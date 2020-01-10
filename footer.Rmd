@@ -1,0 +1,6 @@
+---
+output:
+  html_document:
+    theme: yeti
+---
+[\@feuyeux](https://twitter.com/feuyeux) `r emo::ji("pisces")` [https://github.com/feuyeux `r emo::ji("coffee")`]{style="float:right"}
